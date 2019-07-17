@@ -45,3 +45,5 @@ Git is our coding time machine. Mistakes and errors in our code are inevitable. 
 well damn i totally messed that up didn't i?
 
 what did i do wrong? oh forgot to save!
+
+i hope i can use this information properly its starting to feel like its making some sense!
